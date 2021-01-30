@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "This is my first blog. I am shivam sharma computer science and engineering student.",
+      "author": "Shivam Sharma",
+      "id": 1
+    },
+    {
+      "title": "My second blog",
+      "body": "This is my second blog. I am Amit sharma Mechanical engineering student.",
+      "author": "Amit Sharma",
+      "id": 2
+    },
+    {
+      "title": "personal blog 3",
+      "body": "This is my new blog. I am student of class 7th and also interested in coding so i started coding in React JS.",
+      "author": "Rahul ",
+      "id": 3
+    },
+    {
+      "title": "Shivam's second blog",
+      "body": "This is my second blog. I am shivam sharma computer science and engineering student. I am working for my knowledge in React JS ANd data science.",
+      "author": "Shivam Sharma",
+      "id": 4
+    }
+  ]
+}
